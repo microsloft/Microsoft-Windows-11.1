@@ -1,0 +1,6 @@
+Do
+Msgbox"Microsoft Windows 11.1 özellik güncelle?tirmeniz haz?r. Yuklemek istiyor musunuz?" , vbdanger , "Microsoft Windows 11.1 Kur"
+if"Tamam" {
+Do
+Msgbox"Microsoft Windows 11.1 özellik güncelle?tirmesi yükleniyor..." , vbdanger , "Microsoft Windows 11.1 Kur"
+}
